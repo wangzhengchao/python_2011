@@ -1,6 +1,7 @@
 ## 课堂上重要的瞬间
 
 ```
+month02 多进程，freeze_support  window会循环创建进程
 month02 day10 第二到第三节课，网络理论知识
 month02 day11 前10到15分钟
 month02 day11 第二节课开始，tcp 三次握手描述
