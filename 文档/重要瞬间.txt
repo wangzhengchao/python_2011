@@ -8,6 +8,8 @@ month02 day11 第二节课开始，tcp 三次握手描述
 month02 day16 最后15分钟左右， 多路复用, select epoll  与系统底层交互过程
 month02 day18 下午第三节，16.30左右，github仓库创建
 month02 day19 下午17:40 阶段总结
+
+month03 day01 上午11：03 -- 11:30 django 架构 cMTV 结构 
 ```
 
 
