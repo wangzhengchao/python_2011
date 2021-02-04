@@ -10,6 +10,8 @@ month02 day18 下午第三节，16.30左右，github仓库创建
 month02 day19 下午17:40 阶段总结
 
 month03 day01 上午11：03 -- 11:30 django 架构 cMTV 结构 
+
+month04 day03 14:20- 14:22  CDN 
 ```
 
 
